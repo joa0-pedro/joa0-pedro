@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, meu nome é João Pedro</h1>
+<h1 align="center">Oi 👋 meu nome é João Pedro</h1>
 <p>
 <h3 align="left">Sobre mim:</h3>
   Olá, tenho 18 anos e sou estagiário na SagaTech, apaixonado pela programação e suas possibilidades...
@@ -41,7 +41,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="joa0-pedro" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="joa0-pedro" height="195"/>
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br" alt="joa0-pedro" />
