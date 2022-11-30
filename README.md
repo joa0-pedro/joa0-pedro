@@ -41,10 +41,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="joa0-pedro" height="195"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="joa0-pedro" height="157" width="330"/>
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br" alt="joa0-pedro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br" alt="joa0-pedro" width="400"/>
 </p>
 
 <h3 align="left">Contatos:</h3>
