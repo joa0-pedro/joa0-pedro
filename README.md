@@ -3,7 +3,7 @@
 <h3 align="left">Sobre mim:</h3>
   Olá, tenho 18 anos e sou estagiário na SagaTech, apaixonado pela programação e suas possibilidades...
   <br>
-  Estou nos primeiros passos de uma imensa caminhada que há de vir! 🚀
+  Vivendo os primeiros passos de uma imensa caminhada que há de vir! 🚀
 </p>
 - ⚡ Desenvolvedor Fullstack
 <br>
