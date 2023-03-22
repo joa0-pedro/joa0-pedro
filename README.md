@@ -17,9 +17,6 @@
   <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-native/react-native-original.svg" width="40" height="40"/>
-  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -28,7 +25,7 @@
 </p>
 
 <p>
-  <h3 align="left">Estou aprendendo</h3>
+<!--   <h3 align="left">Estou aprendendo</h3>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
 </p>
@@ -38,7 +35,7 @@
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br" alt="joa0-pedro" width="400"/>
-</p>
+</p> -->
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
