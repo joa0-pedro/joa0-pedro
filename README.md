@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 meu nome é João Pedro</h1>
 <p>
 <h3 align="left">Sobre mim:</h3>
-  Olá, tenho 18 anos e sou estagiário na SagaTech, apaixonado pela programação e suas possibilidades...
+  Olá, tenho 19 anos e sou estagiário na SagaTech, apaixonado pela programação e suas possibilidades...
   <br>
   Vivendo os primeiros passos de uma imensa caminhada que há de vir! 🚀
 </p>
