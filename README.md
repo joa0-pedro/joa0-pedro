@@ -31,13 +31,13 @@
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
 </p>
-
+-->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="joa0-pedro" height="157" width="330"/>
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joa0-pedro&show_icons=true&theme=dracula&locale=pt-br" alt="joa0-pedro" width="400"/>
-</p> -->
+</p> 
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
