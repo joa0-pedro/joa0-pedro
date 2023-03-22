@@ -7,7 +7,9 @@
 </p>
 - ⚡ Desenvolvedor Fullstack
 <br>
-- 🔭 Trabalhando atualmente com Laravel e Filament
+- 🔭 Experiência em Laravel e Filament
+<br>
+- 🪐 Trabalhando atualmente com Adonis.js, React.js e Reac-Native
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
