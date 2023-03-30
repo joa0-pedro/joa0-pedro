@@ -9,7 +9,7 @@
 <br>
 - 🔭 Experiência em Laravel e Filament
 <br>
-- 🪐 Trabalhando atualmente com Adonis.js, React.js e Reac-Native
+- 🪐 Trabalhando atualmente com Adonis.js, React.js e React-Native
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
