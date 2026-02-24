@@ -9,7 +9,7 @@
   <br>
   - 🔭 Experiência em Adonis.js, React.js e React-Native
   <br>
-  - 🪐 Trabalhando atualmente com Adonis.js e React.js
+  - 🪐 Trabalhando atualmente com PHP e Node.js
 <div>
   <h3 align="left">Contatos:</h3>
   <p align="left">
